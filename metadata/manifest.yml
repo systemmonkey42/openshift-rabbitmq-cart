@@ -9,7 +9,7 @@ Categories:
   - service
   - amqp
   - messaging
-Source-Url: https://github.com/commonsmachinery/openshift-rabbitmq-cart.git
+Source-Url: https://github.com/systemmonkey42/openshift-rabbitmq-cart.git
 Display-Name: RabbitMQ
 Description: 'RabbitMQ message broker.  Note: this cartridge does not yet support scaling.'
 Version: '3.2.4'
